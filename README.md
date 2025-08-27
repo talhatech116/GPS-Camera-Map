@@ -37,7 +37,7 @@
 
 <div align="center">
   <img width="360" height="800" src="https://github.com/user-attachments/assets/3a08eacd-2e57-4167-8efd-2bc7dc9dae5c" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/cab8f7c3-743d-4438-a3d2-54a57be09373" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/e7a1e468-4551-46c1-8703-fc00444ad6ff" />
 </div>
 
 ## 📚 Case Study: Documenting Life Through Places
