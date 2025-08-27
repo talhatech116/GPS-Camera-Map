@@ -7,65 +7,69 @@
 ## 🚀 Key Features
 
 ### 📷 Capture Photos with Location
-
 - **Auto GPS Tagging:** Every photo is saved with latitude, longitude, and map link  
 - **Location Notes:** Add custom titles or memory notes for each captured spot  
-- **Offline Mode:** Capture images and sync location data when back online
+- **Offline Mode:** Capture images and sync location data when back online  
 
-- <img width="360" height="800" alt="Group 1597883258" src="https://github.com/user-attachments/assets/6455cfd8-bb32-40b2-915a-d3cf2432e476" />
+<div align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/6455cfd8-bb32-40b2-915a-d3cf2432e476" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/bd127d12-f14c-400b-b17e-64ed44ffb267" />
+</div>
 
-
-### 🗺️ Map View of Your Memories
-
-- **Photo Pins on Map:** Visualize your photos as pins on an interactive map  
-- **Searchable History:** Filter and explore past photos by date, location, or keyword  
-- **Cluster View:** Smart grouping for multiple photos taken in close areas
-
-- 
-<img width="360" height="800" alt="Group 1597883261" src="https://github.com/user-attachments/assets/bd127d12-f14c-400b-b17e-64ed44ffb267" />
+---
 
 ### 🌦️ Weather & Environmental Data
-
 - **Auto Weather Tagging:** Logs current weather conditions (sunny, cloudy, etc.) with each capture  
 - **Time & Date Stamping:** Chronological details added for better memory sorting  
-- **Optional Sensors:** Integrate with phone's barometer, compass, or altimeter (if available)
+- **Optional Sensors:** Integrate with phone's barometer, compass, or altimeter (if available)  
 
-- <img width="360" height="800" alt="Group 1597883263" src="https://github.com/user-attachments/assets/0e17077f-e593-4d97-b8f1-b708f5b7b09f" />
+<div align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/0e17077f-e593-4d97-b8f1-b708f5b7b09f" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/a8ec0a6e-d639-4b12-8b50-496e9ab04f45" />
+</div>
 
+---
 
 ### 📝 Memory Journaling & Albums
-
 - **Photo Journaling:** Write about the moment you captured — feelings, events, people  
 - **Themed Albums:** Group photos into trips, events, or personal collections  
-- **Backup & Sync:** Optional cloud backup or export to device/gallery
+- **Backup & Sync:** Optional cloud backup or export to device/gallery  
 
-- <img width="360" height="800" alt="Group 1597883262" src="https://github.com/user-attachments/assets/a8ec0a6e-d639-4b12-8b50-496e9ab04f45" />
-<img width="360" height="800" alt="Group 1597883261" src="https://github.com/user-attachments/assets/3a08eacd-2e57-4167-8efd-2bc7dc9dae5c" />
+<div align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/3a08eacd-2e57-4167-8efd-2bc7dc9dae5c" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/cab8f7c3-743d-4438-a3d2-54a57be09373" />
+</div>
 
+---
 
-### 🔐 Privacy & Sharing
-
+### 🔐 Privacy & Sharing + Activity Insights
 - **Private by Default:** Photos are stored securely on your device  
 - **Easy Sharing:** Share photo + map link or memory summary via social media or messaging  
 - **Export Options:** Export albums as ZIPs or PDF memory books  
+- **Calorie & Step Counter:** Track daily steps and calories alongside your photo journeys  
+
+<div align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/e7a1e468-4551-46c1-8703-fc00444ad6ff" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/0e17077f-e593-4d97-b8f1-b708f5b7b09f" />
+</div>
 
 ---
 
 ## 📚 Case Study: Documenting Life Through Places
 
 ### 🧩 The Problem
-
-Users who travel often or document field work (e.g., researchers, inspectors, adventurers) struggled with keeping their photo libraries organized with context. Memories were disconnected from locations, and standard camera apps didn’t provide location metadata in a user-friendly format.
+Users who travel often or document field work (e.g., researchers, inspectors, adventurers) struggled with keeping their photo libraries organized with context. Memories were disconnected from locations, and standard camera apps didn’t provide location metadata in a user-friendly format.  
 
 There was **no intuitive app** that could **merge photos, GPS data, maps, and memory journaling** into a seamless experience.
 
 ### 💡 The Solution
-
-We created **GSP Camera Map** — the ultimate memory-mapping camera app.
+We created **GSP Camera Map** — the ultimate memory-mapping camera app.  
 
 - Capture moments and locations in one tap  
 - Relive experiences visually *and* geographically  
 - Organize, search, and share your adventures with rich context  
 - Designed for travelers, explorers, journalists, and anyone who values where memories happen  
 
-> Want a demo, or ready to build with GSP Camera Map APIs? Reach out to the team or check the `docs/` folder.
+---
+
+> 📢 Want a demo, or ready to build with GSP Camera Map APIs? Reach out to the team or check the `docs/` folder.
