@@ -1,6 +1,6 @@
-# 📸 GSP Camera Map – Geo-Tagged Photo & Memory App
+# 📸 GPS Camera Map – Geo-Tagged Photo & Memory App
 
-**GSP Camera Map** is a powerful mobile app that lets users capture photos and automatically tag them with **GPS location**, **date**, and **weather** data. Perfect for travelers, memory keepers, outdoor adventurers, or field workers who want to document moments with context. Relive memories not just through photos, but through the **places and conditions** they were taken in.
+**GPS Camera Map** is a powerful mobile app that lets users capture photos and automatically tag them with **GPS location**, **date**, and **weather** data. Perfect for travelers, memory keepers, outdoor adventurers, or field workers who want to document moments with context. Relive memories not just through photos, but through the **places and conditions** they were taken in.
 
 ---
 
@@ -45,4 +45,4 @@ We created **GSP Camera Map** — the ultimate memory-mapping camera app.
 
 ---
 
-> 📢 Want a demo, or ready to build with GSP Camera Map APIs? Reach out to the team or check the `docs/` folder.
+> 📢 Want a demo, or ready to build with GPS Camera Map APIs? 
