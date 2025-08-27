@@ -40,21 +40,6 @@
   <img width="360" height="800" src="https://github.com/user-attachments/assets/cab8f7c3-743d-4438-a3d2-54a57be09373" />
 </div>
 
----
-
-### 🔐 Privacy & Sharing + Activity Insights
-- **Private by Default:** Photos are stored securely on your device  
-- **Easy Sharing:** Share photo + map link or memory summary via social media or messaging  
-- **Export Options:** Export albums as ZIPs or PDF memory books  
-- **Calorie & Step Counter:** Track daily steps and calories alongside your photo journeys  
-
-<div align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/e7a1e468-4551-46c1-8703-fc00444ad6ff" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/0e17077f-e593-4d97-b8f1-b708f5b7b09f" />
-</div>
-
----
-
 ## 📚 Case Study: Documenting Life Through Places
 
 ### 🧩 The Problem
