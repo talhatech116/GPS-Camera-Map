@@ -28,18 +28,6 @@
   <img width="360" height="800" src="https://github.com/user-attachments/assets/a8ec0a6e-d639-4b12-8b50-496e9ab04f45" />
 </div>
 
----
-
-### 📝 Memory Journaling & Albums
-- **Photo Journaling:** Write about the moment you captured — feelings, events, people  
-- **Themed Albums:** Group photos into trips, events, or personal collections  
-- **Backup & Sync:** Optional cloud backup or export to device/gallery  
-
-<div align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/3a08eacd-2e57-4167-8efd-2bc7dc9dae5c" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/e7a1e468-4551-46c1-8703-fc00444ad6ff" />
-</div>
-
 ## 📚 Case Study: Documenting Life Through Places
 
 ### 🧩 The Problem
